@@ -38,6 +38,7 @@
     <Compile Include="Branch2Class.cs" />
     <Compile Include="Branch1Class.cs" />
     <Compile Include="KomischeKlasse.cs" />
+    <Compile Include="UselessClass.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

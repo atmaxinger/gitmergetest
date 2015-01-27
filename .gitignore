@@ -4,3 +4,6 @@ mergetest/mergetest.userprefs
 mergetest/mergetest.userprefs
 
 *.userprefs
+
+mergetest/mergetest/bin/*
+mergetest/mergetest/obj/*

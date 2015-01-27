@@ -11,6 +11,8 @@ namespace mergetest
 
 			Console.WriteLine ("Hello World!");
 			Console.WriteLine ("Version 0.1");
+			Console.WriteLine ("LALALA");
+
 		}
 	}
 }

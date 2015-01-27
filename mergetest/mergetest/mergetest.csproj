@@ -40,6 +40,7 @@
     <Compile Include="KomischeKlasse.cs" />
     <Compile Include="UselessClass.cs" />
     <Compile Include="mfb2.cs" />
+    <Compile Include="mfb1.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
